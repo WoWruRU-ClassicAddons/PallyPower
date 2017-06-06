@@ -1,6 +1,8 @@
 ## Interface: 11200
 ## Title: PallyPower
 ## Author: Aznamir
+## Notes: Raid/Party Paladin buffs
+## Notes-ruRU: Умное наложение благословения паладина на себя и рейд/группу
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 ## SavedVariablesPerCharacter: PP_PerUser,PallyPower_Assignments
